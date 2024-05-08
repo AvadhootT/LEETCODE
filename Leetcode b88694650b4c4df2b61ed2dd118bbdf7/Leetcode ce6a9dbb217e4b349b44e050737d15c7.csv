@@ -1,0 +1,49 @@
+﻿Problem Number,Date,Difficulty,Tags,New Concepts Learn,Status,My Logic
+66. Plus One,"June 8, 2023",Easy,"Array, Math",,Checked Solution,
+7. Reverse Integer,"July 19, 2023","Medium ",Math,https://www.notion.so/d93d724edce140348707b639f347563d?pvs=21,Checked Solution,
+1. Two Sum,"July 23, 2023",Easy,"Array, Hash Table",,Solved,
+1752. Check if Array Is Sorted and Rotated,"July 4, 2023",Easy,Array,https://www.notion.so/1d32b4abeeed4d168e2b2e3a28c4f21c?pvs=21,Checked Solution,
+26. Remove Duplicates from Sorted Array,"July 5, 2023",Easy,"Array, Two Pointers",https://www.notion.so/16a4239ca05f42a098b89ed87ae2d92e?pvs=21,Solved,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/26%20Remove%20Duplicates%20from%20Sorted%20Array%204bb42e7cab434fefbd35f8a51c978dc0/IMG_5094.jpeg
+189. Rotate Array,"July 6, 2023","Medium ","Array, Math, Two Pointers","https://www.notion.so/1d32b4abeeed4d168e2b2e3a28c4f21c?pvs=21.
+https://www.notion.so/d1361fa1d66d407dab597aa8adcc0c57?pvs=21",Solved,"Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/189%20Rotate%20Array%20f97b268c66aa41a7b8732f077fc6fa42/IMG_5108.jpeg, Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/189%20Rotate%20Array%20f97b268c66aa41a7b8732f077fc6fa42/IMG_5109.jpeg"
+283. Move Zeroes,"July 6, 2023",Easy,"Array, Two Pointers",,Solved,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/283%20Move%20Zeroes%203081160673a04136976c8f9863288071/IMG_5110.jpeg
+268. Missing Number,"July 6, 2023",Easy,"Array, Binary Search, Bit Manipulation, Hash Table, Math, Sorting",,Solved,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/268%20Missing%20Number%20452f892d1c5143698a49919590d48825/IMG_5112.jpeg
+485. Max Consecutive Ones,"July 7, 2023",Easy,Array,,Solved,
+136. Single Number,"July 7, 2023",Easy,"Array, Bit Manipulation",https://www.notion.so/16a4239ca05f42a098b89ed87ae2d92e?pvs=21,Solved,
+75. Sort Colors,"July 8, 2023","Medium ","Array, Sorting, Two Pointers",https://www.notion.so/16a4239ca05f42a098b89ed87ae2d92e?pvs=21,Solved,
+1732. Find the Highest Altitude,"July 9, 2023",Easy,"Array, Prefix Sum",,Checked Solution,
+169. Majority Element,"July 11, 2023",Easy,"Array, Counting, Divide and Conquer, Hash Table, Sorting",https://www.notion.so/e5f24ff857de4f098af39d212ec79120?pvs=21,Checked Solution,
+2149. Rearrange Array Elements by Sign,"July 12, 2023","Medium ","Array, Simulation, Two Pointers",https://www.notion.so/26fd88cfac1846a2911ff1b995003cab?pvs=21Two Pointers,Checked Solution,
+1431. Kids With the Greatest Number of Candies,"July 14, 2023",Easy,Array,,Solved,
+128. Longest Consecutive Sequence,"July 15, 2023","Medium ","Array, Hash Table, Union Find",https://www.notion.so/d64e02fbc9094836bf032cb2da5b51a7?pvs=21,Solved,
+27. Remove Element,"July 16, 2023",Easy,"Array, Two Pointers",https://www.notion.so/1e7c9423114b410a812c81e9c01a330e?pvs=21,Solved,
+88. Merge Sorted Array,"July 17, 2023",Easy,"Array, Sorting, Two Pointers",,Solved,
+1572. Matrix Diagonal Sum,"July 18, 2023",Easy,"Array, Matrix",2D Array,Solved,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/1572%20Matrix%20Diagonal%20Sum%20be14a54f309b4ae5ad5d6c7840b96b76/IMG_5188.jpeg
+74. Search a 2D Matrix,"July 19, 2023","Medium ","Array, Binary Search, Matrix","If want to search in a element, never write else condition (if not found return false) in a for loop this will return false immediately after checking the first element in the matrix.",Solved,
+53. Maximum Subarray,"July 19, 2023","Medium ","Array, Divide and Conquer, Dynamic Programming","https://www.notion.so/fb3356add5fa47efb348d5b577889381?pvs=21
+How to  find solution from 2 for loops to 1 for loop.",Checked Solution,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/53%20Maximum%20Subarray%201394a9ccb2ab467fbb8cf1464b082033/IMG_5204.jpeg
+560. Subarray Sum Equals K,"July 21, 2023","Medium ","Array, Hash Table, Prefix Sum",,Checked Solution,
+121. Best Time to Buy and Sell Stock,"July 23, 2023",Easy,"Array, Dynamic Programming",How to use one for loops instead of two—> Create extra variable,Checked Solution,
+73. Set Matrix Zeroes,"July 24, 2023","Medium ","Array, Hash Table, Matrix",https://www.notion.so/e4cff356f72c411ba883b047797932b0?pvs=21,Checked Solution,
+48. Rotate Image,"July 25, 2023","Medium ","Array, Math, Matrix","https://www.notion.so/69742ec76b994a6cb5844d81c71d7e11?pvs=21
+https://www.notion.so/d35d2c1e33af42eba120d588ced71e69?pvs=21",Checked Solution,
+118. Pascal's Triangle,"July 28, 2023",Easy,"Array, Dynamic Programming",https://www.notion.so/2a7aad68d411466d8e389a9b2309af51?pvs=21Write a extra function to call in the ansFunction.(Why?Because it is a gppd practice of modular programming),Checked Solution,
+229. Majority Element II,"July 28, 2023","Medium ","Array, Counting, Hash Table, Sorting",https://www.notion.so/e5f24ff857de4f098af39d212ec79120?pvs=21https://www.notion.so/e5f24ff857de4f098af39d212ec79120?pvs=21https://www.notion.so/e5f24ff857de4f098af39d212ec79120?pvs=21,Solved,
+15. 3Sum,"August 1, 2023","Medium ",,,Checked Solution,
+704. Binary Search,"August 4, 2023",Easy,"Array, Binary Search",,Solved,
+35. Search Insert Position,"August 5, 2023",Easy,"Array, Binary Search",,Solved,
+34. Find First and Last Position of Element in Sorted Array,"August 6, 2023","Medium ","Array, Binary Search",https://www.notion.so/dac1e616c4234a57b5370d098c3c917f?pvs=21,Checked Solution,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/34%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sort%20db1670edd2bb485cba67b320fdfa25a8/IMG_5533.jpeg
+33. Search in Rotated Sorted Array,"August 6, 2023","Medium ","Array, Binary Search","https://www.notion.so/0ec9fc3c41664a28988878fb906652d5?pvs=21
+#Important revise well#",Checked Solution,
+153. Find Minimum in Rotated Sorted Array,"August 7, 2023","Medium ","Array, Binary Search",https://www.notion.so/0ec9fc3c41664a28988878fb906652d5?pvs=21,Solved,
+540. Single Element in a Sorted Array,"August 7, 2023","Medium ","Array, Binary Search","https://www.notion.so/368db1fe6bfe44f88c47bdc51ec34722?pvs=21
+Pair property(i.e every pair in the array starts from odd or even position only).",Checked Solution,"Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/540%20Single%20Element%20in%20a%20Sorted%20Array%2026170119f9de4430b77805cd0da5d055/IMG_5540.jpeg, Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/540%20Single%20Element%20in%20a%20Sorted%20Array%2026170119f9de4430b77805cd0da5d055/IMG_5541.jpeg"
+876. Middle of the Linked List,"August 8, 2023",Easy,"Linked List, Two Pointers",How to use Node pointer (Important: Revise/Dry run),Checked Solution,
+206. Reverse Linked List,"August 9, 2023",Easy,Linked List,Two pointers approach,Checked Solution,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/206%20Reverse%20Linked%20List%206902147c79384bed80057657e69e2c3b/IMG_5562.jpeg
+141. Linked List Cycle,"August 9, 2023",Easy,"Hash Table, Linked List, Two Pointers",How to use map to store Node in it,Solved,
+234. Palindrome Linked List,"August 10, 2023",Easy,"Linked List, Recursion, Stack, Two Pointers",How to create a copy of the Linked List,Solved,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/234%20Palindrome%20Linked%20List%2050e77c3cc8ef4707a718a959dac51622/IMG_5602.jpeg
+19. Remove Nth Node From End of List,"August 14, 2023","Medium ","Linked List, Two Pointers","Learned how to handle edge cases→ empty list, 1 node present, 2 node present
+How to write (head→next==NULL) condition differently in the while loop.",Checked Solution,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/19%20Remove%20Nth%20Node%20From%20End%20of%20List%2069425bee24334de089edc5ae8d199f16/IMG_5659.jpeg
+2095. Delete the Middle Node of a Linked List,"August 14, 2023","Medium ","Linked List, Two Pointers",,Solved,Leetcode%20b88694650b4c4df2b61ed2dd118bbdf7/Leetcode%20ce6a9dbb217e4b349b44e050737d15c7/2095%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List%206f1655b11d47415cb49e91477e132c24/IMG_5660.jpeg
+21. Merge Two Sorted Lists,"August 17, 2023",Easy,"Linked List, Recursion",How to break node links and add it to new list with dummy node.,Checked Solution,
+225. Implement Stack using Queues,"January 10, 2024",Easy,"Queue, Stack",Using 1 and using 2 queue,Checked Solution,
